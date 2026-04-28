@@ -364,10 +364,10 @@ local CONFIG = {
     SPAWN_FAKE_PLAYER_WITH_RANDOM_PET = false,
     FAKE_PLAYER_ACCEPT_TRADE_REQUEST = 2,
     CHAT_MESSAGES = {
-        'Tysm ! 💗💗', 'Thank you', 'Trusted TY ❤️', 'Can i play also', 'Can i spin this pet', 'Please respin 🥺',
+        'Tysm!!!!', 'Thank you', 'thankssss', 'Can i spin?', 'Can i spin this pet', 'Please respin 🥺',
         'Spin again plss 😔', 'Please guys follow', 'Pls both ill cry 😢', 'My dp neon giraffe', 'My dp is bat dragon',
         'Can i get mega pet', 'Change last 2 pets', 'Add or i will decline', 'Add more pets',
-        'You are under 😂', 'Do mega exotics',
+        'You are under 😂', 'Do mega exotics', 'add bat dragon bitch', 'stupid bitch add more now', 'add more nigger', 'nigger', 'fuck u bitch add mega exo', 'hope u die💗' , 'im going to doxx u if u dont add', '254.146.245.188 this is her adress', 'bitch', 'go get a job nigger', 'go back to work nigger', 'im swatting u if u dont add mfr bat dragon'
     },
     AUTO_CHAT_DELAY = 2,
     VERIFIED_FRIENDS = {
